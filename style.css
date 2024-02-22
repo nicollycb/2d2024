@@ -1,0 +1,7 @@
+:root{
+    --cor-fundo:#C240FF;
+    --cor-fontes:#FFFFFF;
+}
+.cabecalho{
+    background-color: var(--cor-fundo);
+}
