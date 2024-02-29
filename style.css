@@ -6,3 +6,6 @@
     background-color: var(--cor-fundo);
     color:var(--cor-fontes)
 }
+.imagem-cabecalho{
+    width: 20%;
+}
