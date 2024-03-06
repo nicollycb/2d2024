@@ -11,7 +11,7 @@ padding: 0;
     color:var(--cor-fontes);
     display:flex; 
     justify-content:space-around;
-    align-items:center ;
+    align-items:center;
     padding: 24px 0;
 }
 .imagem-cabecalho{
