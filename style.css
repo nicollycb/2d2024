@@ -29,4 +29,9 @@ padding: 0;
     background-image: linear-gradient(#C240FF, #000000);
     color: var(--cor-fontes);
     display:flex;
-}
+    align-items: center;
+    padding: 24px 0;
+    }
+    .escola-div-conteudo{
+        width: 35%;
+    }
