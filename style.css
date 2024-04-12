@@ -58,7 +58,7 @@ padding: 0;
     padding: 16px 0;
     }
     .estudante-todos{
-    display: grid;
+    display: flex;
     grid-template-columns: 25% 25% 25% 25%;
     }
     .rodape{
