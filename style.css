@@ -46,6 +46,8 @@ padding: 0;
     .escola-titulo{
     padding: 24px 0;
     }
+    .estudante{
+    background-color: red;
     .estudante-imagem{
     width: 10%;
     }
